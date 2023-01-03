@@ -1,7 +1,17 @@
+import { React } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import ReCAPTCHA from "react-google-recaptcha";
+
+
 function App() {
+
+  function onChange(value) {
+    console.log("Captcha value:", value);
+  }
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +27,12 @@ function App() {
         >
           Learn React
         </a>
+
+        <ReCAPTCHA
+          sitekey="6LecUsgjAAAAAI7fpja2OcU5qM9OuQFfxVzw7Dpd"
+          onChange={onChange}
+        />
+
       </header>
     </div>
   );
