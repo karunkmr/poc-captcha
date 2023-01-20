@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poc-captcha/static/css/main.073c9b0a.css",
-    "main.js": "/poc-captcha/static/js/main.cac81314.js",
+    "main.js": "/poc-captcha/static/js/main.bf6f034e.js",
     "static/js/787.435e4502.chunk.js": "/poc-captcha/static/js/787.435e4502.chunk.js",
     "static/media/word.docx": "/poc-captcha/static/media/word.e095e3642da1a32473c0.docx",
     "static/media/word.doc": "/poc-captcha/static/media/word.c6f57ea360441889f443.doc",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/poc-captcha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/poc-captcha/index.html",
     "main.073c9b0a.css.map": "/poc-captcha/static/css/main.073c9b0a.css.map",
-    "main.cac81314.js.map": "/poc-captcha/static/js/main.cac81314.js.map",
+    "main.bf6f034e.js.map": "/poc-captcha/static/js/main.bf6f034e.js.map",
     "787.435e4502.chunk.js.map": "/poc-captcha/static/js/787.435e4502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cac81314.js"
+    "static/js/main.bf6f034e.js"
   ]
 }
