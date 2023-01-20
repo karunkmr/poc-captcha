@@ -39,8 +39,8 @@ function App() {
         />
 
       </header>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=' + DOC} width={'100%'} height={'400px'}></iframe>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=' + DOCX} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + DOC} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + DOCX} width={'100%'} height={'400px'}></iframe>
     </div>
   );
 }
