@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/poc-captcha/static/css/main.073c9b0a.css",
-    "main.js": "/poc-captcha/static/js/main.de16c4a8.js",
+    "main.js": "/poc-captcha/static/js/main.cac81314.js",
     "static/js/787.435e4502.chunk.js": "/poc-captcha/static/js/787.435e4502.chunk.js",
+    "static/media/word.docx": "/poc-captcha/static/media/word.e095e3642da1a32473c0.docx",
+    "static/media/word.doc": "/poc-captcha/static/media/word.c6f57ea360441889f443.doc",
+    "static/media/pdf.pdf": "/poc-captcha/static/media/pdf.2b466d228796d7c86d15.pdf",
+    "static/media/powerpoint.pptx": "/poc-captcha/static/media/powerpoint.3699220e1372f2674815.pptx",
+    "static/media/powerpoint.ppt": "/poc-captcha/static/media/powerpoint.e58c866819c779a74d02.ppt",
+    "static/media/excel.xlsx": "/poc-captcha/static/media/excel.5da5c77b81451881b8a5.xlsx",
+    "static/media/excel.xls": "/poc-captcha/static/media/excel.45a910588ce77b1e5de4.xls",
     "static/media/logo.svg": "/poc-captcha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/poc-captcha/index.html",
     "main.073c9b0a.css.map": "/poc-captcha/static/css/main.073c9b0a.css.map",
-    "main.de16c4a8.js.map": "/poc-captcha/static/js/main.de16c4a8.js.map",
+    "main.cac81314.js.map": "/poc-captcha/static/js/main.cac81314.js.map",
     "787.435e4502.chunk.js.map": "/poc-captcha/static/js/787.435e4502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.de16c4a8.js"
+    "static/js/main.cac81314.js"
   ]
 }
