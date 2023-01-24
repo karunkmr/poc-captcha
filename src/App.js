@@ -19,7 +19,7 @@ function App() {
   // }
 
   return (
-    <div className="App">
+    <div className="App" style={{padding: '20px 100px'}}>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -40,19 +40,26 @@ function App() {
 
       </header> */}
       <h1>DOC file</h1>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + DOC} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + DOC}  frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
       <h1>DOCX file</h1>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + DOCX} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + DOCX} frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
       <h1>XLS file</h1>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + XLS} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + XLS} frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
       <h1>XLSX file</h1>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + XLSX} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + XLSX} frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
       <h1>PPT file</h1>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + PPT} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + PPT} frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
       <h1>PPTX file</h1>
-      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + PPTX} width={'100%'} height={'400px'}></iframe>
+      <iframe src={'https://view.officeapps.live.com/op/embed.aspx?src=https://karunkmr.github.io' + PPTX} frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
       <h1>PDF file</h1>
-      <iframe src={PDF} width={'100%'} height={'400px'}></iframe>
+      <iframe src={PDF + "#toolbar=0&view=FitH"} frameBorder="0" width={'100%'} height={'500px'}></iframe>
+      <hr />
     </div>
   );
 }
